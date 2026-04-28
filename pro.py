@@ -10,7 +10,6 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.layers import Bidirectional, BatchNormalization
 
 
-
 # učitavanje
 files = ['meteo_podaci_2021.xlsx','meteo_podaci_2022.xlsx','meteo_podaci_2023.xlsx','meteo_podaci_2024.xlsx']
 df_list = []
